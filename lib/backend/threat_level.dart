@@ -1,0 +1,1 @@
+enum ThreatLevel { low, medium, high }
